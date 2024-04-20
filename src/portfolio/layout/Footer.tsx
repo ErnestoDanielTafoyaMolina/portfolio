@@ -7,7 +7,7 @@ export const Footer = () => {
         <a href="https://github.com/ErnestoDanielTafoyaMolina" target="_blank" rel="noopener noreferrer">
           <FaGithub className="text-white size-30" />
         </a>
-        <a href="linkedin.com/in/ernesto-daniel-tafoya-molina-59636b23a" target="_blank" rel="noopener noreferrer">
+        <a href="https://linkedin.com/in/ernesto-daniel-tafoya-molina-59636b23a" target="_blank" rel="noopener noreferrer">
           <FaLinkedin  className="text-white size-30"/>
         </a>
       </div>
